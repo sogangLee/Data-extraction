@@ -10,4 +10,4 @@
 
 *결과물 : 데이터 수집 및 DB를 전부 사용함으로써 배운 모든 내용을 프로젝트에 녹여보았기에 클래스 중 단연 최고의 프로젝트를 해냈다!*
 
-<img src="![dbdb](https://user-images.githubusercontent.com/111858761/217173632-65d07034-6bd9-4517-a5ab-584bf11f9b81.png)">
+<img src="[dbdb](https://user-images.githubusercontent.com/111858761/217173632-65d07034-6bd9-4517-a5ab-584bf11f9b81.png)">
